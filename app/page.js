@@ -1,4 +1,10 @@
 //make simple next.js page
 import React from 'react';
+//make text "Kocham" beatiful
 
-export default () => <div>Kocham Olę</div>;
+const Page = () => {
+    return /*#__PURE__*/React.createElement("div", null, "Kocham");
+    };
+//export page
+export default Page;
+
