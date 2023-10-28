@@ -6,7 +6,7 @@ const HeroSection = () => {
     <div className='grid grid-cols-1 lg:grid-cols-12'>
         <div className='col-span-7 place-self-center px-4'>
           <h1 className="text-[#5BC0BE] mb-4 text-4xl lg:text-6xl font-extrabold">
-              Hello, I'm Bartek</h1>
+              Hello, I m Bartek</h1>
           <p className='text-white text-lg mb-6 lg:text-xl'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
           Mauris feugiat lacinia velit vel interdum. 
           Vestibulum porta nisi et massa porttitor, at aliquet felis semper. 
